@@ -16,5 +16,3 @@ kotlin {
 tasks.runJvm {
 	main = "userDataInput.jvm.UserDataInputJvmAppKt"
 }
-
-tasks.jsNodeRun
